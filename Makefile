@@ -19,8 +19,7 @@ clear:
 #Usage: 
 #to compile input make
 
-#to clear object files
-#bash clear
+#to clear object files input make clear
 
 # ===============================================
 # out: exit.o hello.o
