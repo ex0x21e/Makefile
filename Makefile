@@ -14,10 +14,10 @@ out: $(objects)
 
 clear:
 	rm *.o $(target)
-
-#//Usage 
-#//to compile
-#bash> make
+	
+	
+#Usage: 
+#to compile input make
 
 #to clear object files
 #bash clear
